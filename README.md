@@ -1,2 +1,2 @@
 # SELENIUM-RepositoryZimina
-SELENIUM_WEB-RepositoryZimina
+SELENIUM WEBDRIVER-RepositoryZimina
